@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "522778215910",
+    "project_id": "bloodsystem-ae1c1",
+    "storage_bucket": "bloodsystem-ae1c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522778215910:android:a2367ae17054889de88227",
+        "android_client_info": {
+          "package_name": "com.dwidar.liveblood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522778215910-bnnh1fcafr4pc508q3i7jndghb0u558s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChq7NiPCc7uk2H5fJ4NQeKHGt-oBiOkN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522778215910-bnnh1fcafr4pc508q3i7jndghb0u558s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522778215910-ntv0r69atccp5nfrgujafkeg8a9pk6ml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dwidar.liveblood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

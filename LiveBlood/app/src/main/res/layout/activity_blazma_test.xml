@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".View.BlazmaTestActivity">
+
+    <EditText
+        android:id="@+id/BlazmaNameTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_35sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:layout_marginRight="@dimen/_35sdp"
+        android:hint="@string/name2"
+        android:textColor="@color/blackColor" />
+    <EditText
+        android:id="@+id/BlazmaAddressTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_35sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:layout_marginRight="@dimen/_35sdp"
+        android:hint="@string/address2"
+        android:textColor="@color/blackColor" />
+    <EditText
+        android:id="@+id/BlazmaPhoneTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_35sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:layout_marginRight="@dimen/_35sdp"
+        android:inputType="phone"
+        android:hint="@string/PhoneNum"
+        android:textColor="@color/blackColor" />
+
+    <Button
+        android:id="@+id/BlazmaAddBTN"
+        android:background="@drawable/button_design"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_35sdp"
+        android:layout_marginTop="@dimen/_55sdp"
+        android:layout_marginRight="@dimen/_35sdp"
+        android:text="@string/add"
+
+        android:textColor="@color/whitee" />
+</LinearLayout>

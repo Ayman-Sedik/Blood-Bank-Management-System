@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".View.UserSignUpActivity"
+    android:padding="@dimen/_7sdp">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/BtnClose"
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:background="@drawable/ic_close_black_24dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="@dimen/_100sdp"
+                android:layout_height="@dimen/_90sdp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/userlogo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/TxtUserNameReg"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/text_style"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:padding="@dimen/_6sdp"
+                android:hint="Full name"
+                android:textSize="16dp"
+                android:inputType="textEmailAddress"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+            <EditText
+                android:id="@+id/TxtUserEmailReg"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/text_style"
+                android:hint="Email"
+                android:inputType="textEmailAddress"
+                android:padding="@dimen/_6sdp"
+                android:textSize="16dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.888"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/TxtUserNameReg" />
+
+            <EditText
+                android:id="@+id/TxtUserAddressReg"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/text_style"
+                android:hint="Address"
+                android:inputType="textEmailAddress"
+                android:padding="@dimen/_6sdp"
+                android:textSize="16dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.111"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/TxtUserEmailReg" />
+
+            <EditText
+                android:id="@+id/TxtUserPhoneReg"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/text_style"
+                android:hint="Phone"
+                android:inputType="phone"
+                android:padding="@dimen/_6sdp"
+                android:textSize="16dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.111"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/TxtUserAddressReg" />
+
+            <EditText
+                android:id="@+id/TxtUserPwdReg"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/text_style"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:padding="@dimen/_6sdp"
+                android:textSize="16dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/TxtUserPhoneReg" />
+
+            <EditText
+                android:id="@+id/TxtUserRePwdReg"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/text_style"
+                android:hint="Re-password"
+                android:inputType="textPassword"
+                android:padding="@dimen/_6sdp"
+                android:textSize="16dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/TxtUserPwdReg" />
+
+            <ProgressBar
+                android:id="@+id/UserRegPB"
+                android:layout_width="@dimen/_30sdp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginTop="10dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/TxtUserRePwdReg" />
+
+            <Button
+                android:id="@+id/BtnUserReg"
+                android:layout_width="@dimen/_210sdp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_style"
+                android:text="Sign up"
+                android:textAllCaps="false"
+                android:textSize="16dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/UserRegPB" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

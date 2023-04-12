@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=BA:A8:71:D5:C1:C1:CD:E5:54:0D:49:46:AF:5C:02:CD:36:DF:F4:80%3Bcom.dwidar.liveblood.View
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.dwidar.liveblood.View
+
+    SHA-1 certificate fingerprint:
+    BA:A8:71:D5:C1:C1:CD:E5:54:0D:49:46:AF:5C:02:CD:36:DF:F4:80
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAV0ussHS30__3QI-IddyCXpnsvkPZkSZA</string>
+</resources>
