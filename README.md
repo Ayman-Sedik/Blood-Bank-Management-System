@@ -8,12 +8,11 @@
 ## Gallery
 <div>
 <span>
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/b9b6d217-e74e-4481-b58a-9193702e4ac1" width="200" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/e1d6571f-0ad0-409a-95a0-3c909dbecd79" width="200" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/0bc944e5-d8ca-4869-9dff-9c7981ee832b"width="200" height="400" />
-<img src="gallery/single_add.png" width="200" height="400" />
-<img src=" " width="200" height="400" />
-<img src=" " width="200" height="400" />
+<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/b9b6d217-e74e-4481-b58a-9193702e4ac1" width="210" height="400" />
+<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/0bc944e5-d8ca-4869-9dff-9c7981ee832b"width="210" height="400" />
+<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/e1d6571f-0ad0-409a-95a0-3c909dbecd79" width="210" height="400" />
+<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/2963f18f-409f-4cd4-a453-bc1a2dca50ed" width="210" height="400" />
+<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/e843201b-6e20-48f3-9c20-9e91f46c70d9" width="210" height="400" />
 <img src=" " width="200" height="400" />
 <img src=" " width="200" height="400" />
 <img src=" " width="200" height="400" />
