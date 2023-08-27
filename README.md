@@ -9,14 +9,14 @@
 <div>
 <span>
 <img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/b9b6d217-e74e-4481-b58a-9193702e4ac1" width="200" height="400" />
-<img src="gallery/playlists.png" width="200" height="400" />
-<img src="gallery/empty_list.png" width="200" height="400" />
+<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/e1d6571f-0ad0-409a-95a0-3c909dbecd79" width="200" height="400" />
+<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/0bc944e5-d8ca-4869-9dff-9c7981ee832b"width="200" height="400" />
 <img src="gallery/single_add.png" width="200" height="400" />
-<img src="gallery/single_download.png" width="200" height="400" />
-<img src="gallery/playlist_add.png" width="200" height="400" />
-<img src="gallery/inside_playlist.png" width="200" height="400" />
-<img src="gallery/audio_player_v2.png" width="200" height="400" />
-<img src="gallery/video_player.png" width="200" height="400" />
+<img src=" " width="200" height="400" />
+<img src=" " width="200" height="400" />
+<img src=" " width="200" height="400" />
+<img src=" " width="200" height="400" />
+<img src=" " width="200" height="400" />
 </span>
 </div>
 
