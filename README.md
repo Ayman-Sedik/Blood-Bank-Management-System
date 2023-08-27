@@ -8,20 +8,70 @@
 ## Gallery
 <div>
 <span>
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/b9b6d217-e74e-4481-b58a-9193702e4ac1" width="215" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/0bc944e5-d8ca-4869-9dff-9c7981ee832b"width="215" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/e1d6571f-0ad0-409a-95a0-3c909dbecd79" width="215" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/2963f18f-409f-4cd4-a453-bc1a2dca50ed" width="215" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/e843201b-6e20-48f3-9c20-9e91f46c70d9" width="215" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/af41ef09-111a-4b13-8b10-ee8dcfe03634" width="215" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/ff466fe3-3b6f-478e-be21-38f46b203274" width="215" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/024e0a93-3140-46b9-bebb-da47c9df6f1b" width="215" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/f6aa3037-d6a7-4dc7-b2a8-bc9fe4a1d938" width="215" height="400" />
-<img src="https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/3ba202da-a4dc-4fd5-b843-c11b570c6f86" width="215" height="400" />
+  <img src="![User Interface](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/7ab939f3-626f-4cfc-bc7d-dfb7dad61477)
+ " width="215" height="400" />
+  
+ <img src=![Login](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/ca0022e5-47c7-40f4-ab63-c478c5443d68)
+" " width="215" height="400" />
 
-<img src=" " width="215" height="400" />
+  <img src="![Register](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/4e39f84d-8265-44de-98e9-934dfc8c5b3b)
+ " width="215" height="400" />
 
-<img src=" " height="400" />
+ <img src=" ![Login Error](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/045c3a83-83a3-4a26-a2f6-c465ab252037)
+" width="215" height="400" />
+
+
+ 
+<img src="![Patient Interface](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/8e5850ae-55c0-4db6-989b-b392dc212969)
+ " width="215" height="400" />
+ 
+<img src="![Donar Interface](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/1c5c4c99-e2a7-4f5a-9339-4075a5e7c5c6)
+ " width="215" height="400" />
+
+  <img src="![Hospital Interface](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/81048570-fdfc-45b9-974a-1ab49052b12e)
+ " width="215" height="400" />
+
+ <img src=" ![Upload Data](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/20b7a47e-98dd-49f0-8d02-fa077f99eeac)
+" width="215" height="400" />
+
+<img src![Edit Data](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/60db5f99-9e49-4ed8-8cff-7d1aa86f93da)
+=" " width="215" height="400" />
+
+<img src="![Edit with Example](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/9bca876e-d990-4122-90a5-87a132af5393)
+ " width="215" height="400" />
+
+ 
+<img src=" ![Test Virus](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/71ee50b6-2bb9-44c4-ad3e-edf4832544d2)
+" width="215" height="400" />
+
+
+<img src="![Add Test](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/8e524349-cc1e-4a96-b92d-8214f4c7ef2c)
+ " width="215" height="400" />
+ 
+ <img src="![Add Blood Test](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/a2c9e09d-9462-4116-ba4a-b6b7a379524a)
+ " width="215" height="400" />
+ 
+ <img src="![Corona Test](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/3c6a4797-f7a1-4f8a-8818-aa75706d0701)
+ " width="215" height="400" />
+
+
+<img src=![Error Message](https://github.com/Ayman-Sedik/Blood-Bank-Management-System/assets/87248906/0bfe8d93-e691-4570-b8bb-30e0ccd7caa0)
+" " width="215" height="400" />
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+ 
 
 </span>
 </div>
